@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-USERNAME and YOUR-REPOSITORY before publishing. Keep this list in sync with published canonical pages. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/about.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/services.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/services/seo.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/services/social-media-management.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/services/ppc.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/services/meta-ads.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/contact.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/privacy.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/blog/</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/blog/seo-basics.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/blog/content-plan.html</loc></url>
+</urlset>
